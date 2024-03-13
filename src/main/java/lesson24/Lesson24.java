@@ -44,6 +44,6 @@ public class Lesson24 {
     }
 
     static void delete(String name, String groupName, Statement stmt) {
-        
+
     }
 }
